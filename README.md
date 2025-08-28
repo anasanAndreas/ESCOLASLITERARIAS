@@ -1,5 +1,5 @@
 # ESCOLASLITERARIAS
-site em dupla avaliativo do curso com temática em escolas literárias da história brasileira
+site em dupla com temática em escolas literárias da história brasileira
 </br></br>
 # ⋆౨ৎ informações gerais
 um projeto de html que inclui informações sobre escolas literárias + um questionário acessível ao clicar o caderno no index
